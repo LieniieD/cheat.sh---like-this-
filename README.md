@@ -889,3 +889,5 @@ There are two cases, when you want to install *cheat.sh* locally:
 2. You want to use your own cheat sheets (additionally, or as a replacement).
 
 Installation process in described in details here: [cheat.sh standalone installation](doc/standalone.md)
+
+hello
